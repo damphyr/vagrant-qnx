@@ -10,6 +10,6 @@ This came out of [a yak shaving expedition](http://www.ampelofilosofies.gr/softw
 * Add the matadata.json file to the VM directory
 * Tar the files with tar czvf qnx65.box *.vmdk *.vmx *.vmxf *.nvram metadata.json
 
-To operate this box with Vagrant you will need [VMWare Workstation](http://www.vmware.com/products/workstation/) and the [VMWare provider for vagrant]() which both cost money. And this is still not going to work :(
+To operate this box with Vagrant you will need [VMWare Workstation](http://www.vmware.com/products/workstation/) and the [VMWare provider for vagrant]() which both cost money. And this is still not going to work.
 
-Not yet anyway. We will need a vagrant guest plugin so that vagrant can recognise QNX as an operating system. 
+You will need the vagrant-guest-qnx plugin. You might want to read the last part of the [yak shaving](http://www.ampelofilosofies.gr/software/2013/10/19/vagrant-guest-qnx) for gotchas (hint: look at the Vagrantfile)
