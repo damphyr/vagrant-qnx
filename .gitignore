@@ -1,3 +1,6 @@
+.vagrant/
+vagrant-guest-qnx/pkg/
+
 #################
 ## Eclipse
 #################
