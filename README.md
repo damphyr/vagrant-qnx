@@ -12,4 +12,8 @@ This came out of [a yak shaving expedition](http://www.ampelofilosofies.gr/softw
 
 To operate this box with Vagrant you will need [VMWare Workstation](http://www.vmware.com/products/workstation/) and the [VMWare provider for vagrant](http://www.vagrantup.com/vmware) which both cost money. And this is still not going to work.
 
-You will need the vagrant-guest-qnx plugin. You might want to read the last part of the [yak shaving](http://www.ampelofilosofies.gr/software/2013/10/19/vagrant-guest-qnx) for gotchas (hint: look at the Vagrantfile)
+You will need the vagrant-guest-qnx plugin: 
+
+vagrant plugin install vagrant-guest-qnx
+
+You might want to read the last part of the [yak shaving](http://www.ampelofilosofies.gr/software/2013/10/19/vagrant-guest-qnx) for gotchas (hint: look at the Vagrantfile)
