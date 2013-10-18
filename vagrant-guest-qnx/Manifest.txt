@@ -1,0 +1,7 @@
+lib/vagrant-guest-qnx.rb
+lib/qnx/vagrant.rb
+lib/qnx/vagrant/plugin.rb
+lib/qnx/vagrant/guest.rb
+lib/qnx/vagrant/cap/halt.rb
+lib/qnx/vagrant/cap/change_host_name.rb
+lib/qnx/vagrant/cap/configure_networks.rb

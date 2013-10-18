@@ -1,0 +1,7 @@
+=== 0.0.1 / 2013-10-18
+
+* Initial release
+* Guest capabilities
+ * halt
+ * change_hostname
+
