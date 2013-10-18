@@ -1,0 +1,5 @@
+/usr/sbin/inetd &
+# start qconn for remote connections with Momentics
+/usr/sbin/qconn &
+# start SSH daemon
+/usr/sbin/sshd &
