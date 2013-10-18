@@ -1,4 +1,4 @@
-#NVagrant base box for QNX 6.5.0 SP1
+#Vagrant base box for QNX 6.5.0 SP1
 
 This came out of [a yak shaving expedition](http://www.ampelofilosofies.gr/software/2013/10/18/qnx-vagrant)
 
