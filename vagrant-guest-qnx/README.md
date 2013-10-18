@@ -12,6 +12,7 @@ Currently:
 
  * halt
  * change_hostname
+ * configure_networks
 
 == INSTALL:
 
